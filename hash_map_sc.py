@@ -1,9 +1,4 @@
-# Name: Cory Apperson
-# OSU Email: appersoc@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: 06/06/2024
-# Description: A hash map implementation using separate chaining for collision resolution, allowing efficient key-value
+# A hash map implementation using separate chaining for collision resolution, allowing efficient key-value
 # mappings even under high load factors.
 
 
