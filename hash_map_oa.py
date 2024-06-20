@@ -1,9 +1,4 @@
-# Name: Cory Apperson
-# OSU Email: appersoc@oregonstate.edu
-# Course: CS261 - Data Structures
-# Assignment: 6
-# Due Date: 06/06/2024
-# Description: Implements an open addressing hash map with quadratic probing for collision resolution. Supports dynamic
+# Implements an open addressing hash map with quadratic probing for collision resolution. Supports dynamic
 # resizing to maintain efficient operations as the map grows.
 
 from a6_include import (DynamicArray, DynamicArrayException, HashEntry,
